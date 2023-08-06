@@ -1,2 +1,3 @@
-# Configuration
-Files related to apps and games, including configuration
+# About
+
+It is always better to use default settings when everything works for you. But it never happens, and everyone periodically changes or overrides them. Here comes the main problem, you cannot track every change you have made to any option. The best solution to the problem is to write down everything you have changed in a config file. A configuration file, irrespective of its type, is a backup of all the game settings you have overridden according to your preferences. There are many reasons behind it, such as if you want to share all the changes with your friends, switch to a new machine, know your old preferences as you messed up default settings, recently formatted your device, etc. This repository contains game-related files, including configurations.
