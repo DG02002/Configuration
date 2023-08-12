@@ -20,7 +20,7 @@ The `video.txt` file is optimal settings for the best performance and best graph
 ## Installation
 
 1. Download all the form the given link.
-2. Go to your Steam folder (this is usually in `Local Disk (C:)`) and then navigate to Program Files (x86) ➔ Steam ➔ userdata ➔ YOURSTEAMID (this is a bunch of numbers that corresponds with your personal Steam ID number) ➔ 730 ➔ local ➔ cfg.
+2. Go to your Steam folder this is usually in `Local Disk (C:)` and then navigate to `Program Files (x86)` ➔ `Steam` ➔ `userdata` ➔ `YOURSTEAMID` (this is a bunch of numbers that corresponds with your personal Steam ID number) ➔ `730` ➔ `local` ➔ `cfg` .
 3. Place the `autoexec.cfg` & `video.txt` in the cfg folder.
 4. Done.
 
